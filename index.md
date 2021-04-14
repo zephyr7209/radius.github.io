@@ -2,7 +2,7 @@
 
 ## About me
 
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx3JjwPUDGqG0qk4w8UL2PoQoGLHCI7TVOEA&usqp=CAU" width = "120" height = "120" div align=left /> Ohio State 24er, majored in **Physics&Astronomy**
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTx3JjwPUDGqG0qk4w8UL2PoQoGLHCI7TVOEA&usqp=CAU" width = "150" height = "150" div align=left /> Ohio State 24er, majored in **Physics&Astronomy**
 
 Born in China
 
