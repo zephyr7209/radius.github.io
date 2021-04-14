@@ -27,3 +27,5 @@ Upload some notes on physics
 QQ: 1435929797
 
 Email: zhang.12043@osu.edu
+
+知乎: [Radius](https://www.zhihu.com/people/senoker-41)
