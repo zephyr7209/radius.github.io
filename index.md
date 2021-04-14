@@ -2,9 +2,15 @@
 
 ## About me
 
-Ohio State 24er Physics&Astronomy
+Born in China
 
-currently learning **Python** and **LaTax**
+Ohio State 24er, majored in **Physics&Astronomy**
+
+currently learning **Python** and **LaTex**
+
+Interested in **AMO**, **Particle Physics**, **Cosmology**
+
+
 
 ## Contact
 QQ: 1435929797
