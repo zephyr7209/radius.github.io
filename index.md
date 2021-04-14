@@ -24,7 +24,7 @@ Video Games
 ***
 ## I am planning to
 
-Upload some notes on physics
+Upload some notes related to physics
 
 ***
 ## Contact
