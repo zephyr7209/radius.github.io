@@ -18,6 +18,8 @@ Philosophy
 
 History
 
+Video Games
+
 ## I am planning to
 
 Upload some notes on physics
