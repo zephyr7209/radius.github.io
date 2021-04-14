@@ -29,7 +29,7 @@ Upload some notes related to physics
 ***
 ## Contact
 
-QQ: 1435929797
+QQ: 884689463
 
 Email: zhang.12043@osu.edu
 
