@@ -10,7 +10,13 @@ currently learning **Python** and **LaTex**
 
 Interested in **AMO**, **Particle Physics**, **Cosmology**
 
+## Amateur Hobby
 
+Road Bikes
+
+Philosophy
+
+History
 
 ## Contact
 QQ: 1435929797
