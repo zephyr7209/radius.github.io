@@ -12,9 +12,9 @@
  Interested in **AMO**, **Particle Physics**, **Cosmology**
 
 ***
-## Amateur Hobby
+## Hobbies
 
-Road Bike
+Road Bikes
 
 Philosophy
 
