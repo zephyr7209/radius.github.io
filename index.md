@@ -9,12 +9,12 @@
 
  Currently learning **Python** and **LaTex**
 
- Interested in **AMO**, **Particle Physics**, **Cosmology**
+ Interested in **Exoplanets**, **Particle Physics**, **Cosmology**, **Supernova**
 
 ***
 ## Hobbies
 
-Road Bikes
+Cycling
 
 Philosophy
 
@@ -35,3 +35,5 @@ QQ: 884689463
 Email: zhang.12043@osu.edu
 
 知乎: [Radius](https://www.zhihu.com/people/senoker-41)
+
+[Strava](https://www.strava.com/athletes/93643868)
